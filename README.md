@@ -1,2 +1,2 @@
 # OIBSIP_TaskNo_2
-Oasis Internship Project 1 :- BMI Calculator
+Oasis Internship Project 2 :- BMI Calculator
